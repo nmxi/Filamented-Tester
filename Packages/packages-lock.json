@@ -230,6 +230,12 @@
         "com.unity.inputsystem": "1.2.0"
       }
     },
+    "s-ilent.filamented": {
+      "version": "file:filamented",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
