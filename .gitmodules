@@ -1,0 +1,3 @@
+[submodule "Packages/filamented"]
+	path = Packages/filamented
+	url = https://gitlab.com/s-ilent/filamented.git
